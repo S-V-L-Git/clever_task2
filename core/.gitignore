@@ -1,0 +1,8 @@
+/build/classes/
+/build/generated/
+/build/reports/
+/build/test-results/
+/build/tmp/.cache/
+/build/tmp/compileJava/
+/build/tmp/compileTestJava/
+/build/tmp/test/
